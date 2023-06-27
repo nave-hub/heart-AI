@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_s" value="name:id;datatype:int,name:symptom;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:surname;datatype:string,name:othername;datatype:string,name:address;datatype:string,name:email;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_disea" value="name:id;datatype:int,name:disease;datatype:string" />
+	<infoitem key="UD_bs" value="name:disease;datatype:string,name:treatment;datatype:string,name:medication;datatype:string" />
+</info>
